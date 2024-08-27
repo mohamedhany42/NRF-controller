@@ -22,8 +22,3 @@ This repository contains the code and schematics for a wireless RC car control s
 - Install the Arduino IDE or any compatible development environment.
 - NRF24L01 library for Arduino (install from the Arduino Library Manager).
 
-### Setup Instructions
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/NRF24L01-RC-Car-Controller.git
